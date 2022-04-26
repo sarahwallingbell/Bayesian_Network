@@ -3,4 +3,4 @@
 
 Implementation of 3 approximate inference algorithms for a Bayesian network: direct sampling, rejection sampling, and likelihood weighting. <br>See *bayesian_assignment.pdf* for full assignment description. 
 
-I was given starter code and implemented the Bayesian network and inference algorithms. 
+I was given starter code and implemented the Bayesian network in the **bn** package. 
